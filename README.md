@@ -1,0 +1,79 @@
+# Mortal Kombat Gold (Eurocom product page)
+
+Mirror of [http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold](http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold), preserved as part of the [fgcmirror](https://github.com/fgcmirror) project.
+
+Live at <https://mortal-kombat-gold.fgcmirror.com>.
+
+## Source
+
+- **Original URL**: <http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold>
+- **Original host**: `www.eurocom.co.uk`
+- **Captured at**: 2026-05-03T00:00:00Z
+- **Tool**: `curl`
+
+## Snapshots used
+
+- **Primary snapshot**: `20120504100744` (2012-05-04 10:07 UTC) — [Wayback](https://web.archive.org/web/20120504100744id_/http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold)
+- **Complementary snapshots** (used to fill missing assets):
+  - `20111129001215` (2011-11-29 00:12 UTC) — 1 asset(s)
+  - `20120128164026` (2012-01-28 16:40 UTC) — 1 asset(s)
+
+## Notes
+
+Eurocom Developments was a UK studio that ported Mortal Kombat Gold to the Sega Dreamcast (1999). This mirror preserves only the MK Gold subsection (Game / Gallery / Cover Art tabs) of Eurocom's corporate site, linked from the Wikipedia article on the game as the official website. **Unfortunately the Wayback Machine never crawled any of Eurocom's image assets** — confirmed via the Wayback Availability API for all 48 referenced files including the main game artwork, all 10 gallery screenshots, the cover art, the page background, the social-media icons, and many CSS-driven layout sprites. The HTML and text content (game description, technical specs, copyright notice) survive intact, as does the YouTube trailer link. Outbound navigation links to other parts of eurocom.co.uk point at the Wayback snapshot so they remain useful when clicked. The Game tab originally embedded the YouTube trailer via Adobe Flash; this mirror replaces that with an HTML5 <video> playing a local copy of the trailer (240p, 12 MB), downloaded via yt-dlp and preserved under _assets/video/ alongside its thumbnail and metadata.
+
+- 48 asset(s) could not be recovered from any Wayback snapshot:
+  - `/assetsnew/pngfix.js`
+  - `/assetsnew/images/contentheadervideogames.gif`
+  - `/assetsnew/images/games/mortal-kombat-gold/background.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/cover/mkg.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/main.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/disneyuniverseduo.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/dspaceduo.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/goldeneyeduo.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/goldeneyereloadedduo.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/rioduo.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/vancouverduo.jpg`
+  - `/assetsnew/images/social/facebook.gif`
+  - `/assetsnew/images/social/linkedin.gif`
+  - `/assetsnew/images/social/youtube.gif`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/1.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/2.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/3.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/4.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/5.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/6.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/7.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/8.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/9.jpg`
+  - `/assetsnew/images/games/mortal-kombat-gold/gallery/10.jpg`
+  - `/assetsnew/images/blank.gif`
+  - `/assetsnew/images/contactus/eurocom_map.gif`
+  - `/assetsnew/images/left_arrow_fs8.png`
+  - `/assetsnew/images/loading.gif`
+  - `/assetsnew/images/right_arrow_fs8.png`
+  - `/assetsnew/images/games/gameslistbgtop.jpg`
+  - `/assetsnew/images/navigation/gamessidebar/sidebargamesmenuheader.jpg`
+  - `/assetsnew/images/bgsprites.jpg`
+  - `/assetsnew/images/header.jpg`
+  - `/assetsnew/images/hrdot.gif`
+  - `/assetsnew/images/navigation/gamessidebar/gamesidebarspr.jpg`
+  - `/assetsnew/images/navigation/searchbox.jpg`
+  - `/assetsnew/images/shadow.gif`
+  - `/assetsnew/images/shadow.png`
+  - `/assetsnew/images/shadowAlpha.png`
+  - `/assetsnew/scripts/slimbox-2.03/css/closelabel.gif`
+  - `/assetsnew/scripts/slimbox-2.03/css/loading.gif`
+  - `/assetsnew/scripts/slimbox-2.03/css/nextlabel.gif`
+  - `/assetsnew/scripts/slimbox-2.03/css/prevlabel.gif`
+  - `/assetsnew/images/redbartr.gif`
+  - `/assetsnew/images/background.jpg`
+  - `/assetsnew/images/contentheaderback.jpg`
+  - `/assetsnew/images/navigation/menubackduo.jpg`
+  - `/assetsnew/images/social/twitter.gif`
+
+## Contributing
+
+Found a missing asset or better version?
+
+Feel free to open a PR.
