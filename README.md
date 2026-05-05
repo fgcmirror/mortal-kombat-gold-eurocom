@@ -2,10 +2,11 @@
 
 Mirror of [http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold](http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold), preserved as part of the [fgcmirror](https://github.com/fgcmirror) project.
 
-Live at <https://mortal-kombat-gold.fgcmirror.com>.
+Live at <https://mortal-kombat-gold-eurocom.fgcmirror.com>.
 
 ## Source
 
+- **Category**: Official game site
 - **Original URL**: <http://www.eurocom.co.uk/index.php/video-games/mortal-kombat-gold>
 - **Original host**: `www.eurocom.co.uk`
 - **Captured at**: 2026-05-03T00:00:00Z
